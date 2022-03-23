@@ -1,8 +1,10 @@
 # Twilio tag for Google Tag Manager Server Side
 
-Send SMS via Twilio service. 
+Uses Twilio phone number with SMS functionality to send SMS.
 
-### Description TBD
+## Useful links:
+
+- [How to set up Twilio SMS tag for server Google Tag Manager](https://stape.io/blog/how-to-send-twilio-sms-using-server-google-tag-manager)
 
 ## Open Source
 
