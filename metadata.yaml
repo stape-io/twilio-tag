@@ -1,4 +1,7 @@
-homepage: "https://stape.io/"
+homepage: 'https://stape.io/'
+documentation: 'https://github.com/stape-io/twilio-tag'
 versions:
+  - sha: d43fd275bef451b614116fd7247ecd975377bd28
+    changeNotes: Add tag consent section.
   - sha: 1e870d506dbb0c5730876df9de98c46ac640b02d
     changeNotes: Initial release.
